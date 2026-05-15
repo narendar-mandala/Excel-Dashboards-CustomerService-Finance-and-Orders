@@ -111,21 +111,21 @@ Defined key operational questions for each dashboard to guide the analysis. For 
 ### Customer Service Dashboard
 Tracks customer support volume, interaction types, agent-level CSAT scores, and weekly contact patterns. Enables managers to identify coaching opportunities and optimize staffing.
 
-![Customer Service Dashboard](Images/customer-service-dashboard.png)
+![Customer Service Dashboard](Images/Customer Service Dashboard.png)
 
 ---
 
 ### Finance Dashboard
 Visualizes revenue distribution by region, sales trends over time, product-level financial performance, and the impact of discounting on net revenue.
 
-![Finance Dashboard](Images/finance-dashboard.png)
+![Finance Dashboard](Images/Finance Dashboard.png)
 
 ---
 
 ### Orders Management Dashboard
 Monitors total orders, average order value, product sales volumes, discount application rates, and sales channel distribution (Online vs. Physical Visit).
 
-![Orders Management Dashboard](Images/orders-dashboard.png)
+![Orders Management Dashboard](Images/Orders Management Dashboard.png)
 
 ---
 
