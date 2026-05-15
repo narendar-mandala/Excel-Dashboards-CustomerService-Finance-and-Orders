@@ -1,0 +1,14 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Excel files - treat as binary to avoid line ending corruption
+*.xlsx binary
+*.xlsm binary
+*.xls  binary
+
+# Images - treat as binary
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.gif  binary
+*.pdf  binary
