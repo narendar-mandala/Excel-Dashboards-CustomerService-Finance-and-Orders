@@ -3,7 +3,11 @@
 
 A suite of three interactive Excel dashboards — **Customer Service**, **Finance**, and **Orders Management** — built to showcase how spreadsheet tools can transform raw business data into actionable insights. By combining KPI tracking, time-series analysis, and interactive filtering, the dashboards deliver a 360-degree view of a food chain's operations, covering sales performance, customer satisfaction, and financial trends. The project leverages advanced Excel features including PivotTables, PivotCharts, Slicers, and Conditional Formatting to produce clean, user-friendly, and data-driven decision support.
 
-![Dashboard Overview](Images/dashboard-overview.png)
+**Dashboards Overview**
+
+![Customer Service Dashboard](Images/CustomerServiceDashboard.png)
+![Finance Dashboard](Images/FinanceDashboard.png)
+![Orders Management Dashboard](Images/OrdersManagementDashboard.png)
 
 ---
 
@@ -111,21 +115,21 @@ Defined key operational questions for each dashboard to guide the analysis. For 
 ### Customer Service Dashboard
 Tracks customer support volume, interaction types, agent-level CSAT scores, and weekly contact patterns. Enables managers to identify coaching opportunities and optimize staffing.
 
-![Customer Service Dashboard](Images/Customer Service Dashboard.png)
+![Customer Service Dashboard](Images/CustomerServiceDashboard.png)
 
 ---
 
 ### Finance Dashboard
 Visualizes revenue distribution by region, sales trends over time, product-level financial performance, and the impact of discounting on net revenue.
 
-![Finance Dashboard](Images/Finance Dashboard.png)
+![Finance Dashboard](Images/FinanceDashboard.png)
 
 ---
 
 ### Orders Management Dashboard
 Monitors total orders, average order value, product sales volumes, discount application rates, and sales channel distribution (Online vs. Physical Visit).
 
-![Orders Management Dashboard](Images/Orders Management Dashboard.png)
+![Orders Management Dashboard](Images/OrdersManagementDashboard.png)
 
 ---
 
