@@ -111,14 +111,14 @@ Defined key operational questions for each dashboard to guide the analysis. For 
 ### Customer Service Dashboard
 Tracks customer support volume, interaction types, agent-level CSAT scores, and weekly contact patterns. Enables managers to identify coaching opportunities and optimize staffing.
 
-![Customer Service Dashboard](Images/customer-service-dashboard.png)
+!(Images/customer-service-dashboard.png)
 
 ---
 
 ### Finance Dashboard
 Visualizes revenue distribution by region, sales trends over time, product-level financial performance, and the impact of discounting on net revenue.
 
-![Finance Dashboard](Images/finance-dashboard.png)
+![Finance Dashboard(Images/finance-dashboard.png)
 
 ---
 
